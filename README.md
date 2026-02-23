@@ -14,35 +14,37 @@ vi lavede prototyper i applab.
 her lavede vi en prototype i applab hvor vi blandede alle de ting vi havde lært i grundforløbet med hvordan codning virker og gestalts love for at lave en app som ville kunne fortelle om to matrualer blandet lavede en let opløselig, hård opløselig eller at de ikke blander.
 link til code prototype i applab omkring salte: https://studio.code.org/projects/applab/6V7fHtJfRh9p5YfL4HP04ZiiHJtdq560sIG4gkIIWm8/edit
 
-opsumering:
-ved hvordan man laver app i applab.
-kan lave app i applab.
-kender til gestalts love og userinterface.
+opsumering: 
+ved hvordan man laver app i applab, 
+kan lave app i applab, 
+kender til gestalts love og userinterface og 
 lave prototype i applab.
 
 ## programering
-vi har lær omkrign og brug af variabler i programering
+vi har lær omkrign og brug af variabler i programering som vi så brugte til at lave coder med variabler for eksempel denne code hvor vi fik en bold til at hoppe rundt på skærmen hvor vi brugte en hel masse variabler eller var statments. den virker ikke rigtig ved ikke hvorfor. link til code: https://editor.p5js.org/frederikhc09/sketches/4QuPszylq
 
-vi har lært omkring løkker eller gentagelser i kode
+vi har lært omkring løkker eller gentagelser i kode, som vi også brugte i denne code omkring let og håd opløselig blandlinger. link: https://studio.code.org/projects/applab/6V7fHtJfRh9p5YfL4HP04ZiiHJtdq560sIG4gkIIWm8/edit
 
-vi har lært om kontrolstrukturer (if/else)
+vi har lært om kontrolstrukturer (if/else) som vi så brugte ikke i rigtig code i p5 med i applab hvor vi brugte en hel masse if/else til at få den til at sge om blandingen er let eller håd opløseliug. link til code: https://studio.code.org/projects/applab/6V7fHtJfRh9p5YfL4HP04ZiiHJtdq560sIG4gkIIWm8/edit
 
-vi har lært at omkring og at bruge lister
+vi har lært at omkring og at bruge lister. som vi brugte i denne code hvor vi lave en Sierpinski triangle med tilfældige punkter som vi brugte lister til. link til code om Sierpinski triangle: https://editor.p5js.org/frederikhc09/sketches/Z-1IqrCIr
 
-vi har konstruert Sierpinski trekant kode i p5
+vi har lavet fysiksimuleringskode i p5 hvor vi fik en bold til at reager som den ville i virkeligheden med tyndekraft
 
-vi har lavet fysiksimuleringskode i p5
+opsamling: vi har lær omkrign og brug af variabler, lært omkring løkker eller gentagelser i kode, lært om kontrolstrukturer (if/else) og lært at omkring og at bruge lister
 
 ## kryptografi
 Vi lærer om kryptering og dets formål, anvendelse, og eksempler.
-cæcar cipher
-vi har lært om Symmetrisk vs. Asymmetrisk kryptering
+cæcar cipher som vi bland andet lavde i p5 her link til code cæcar cipher den virker ikke men ideen er der: https://editor.p5js.org/frederikhc09/sketches/PIMiy7vbD
 
-vi har lært om RSA og cæcar cipher
-cæcar cipher i p5: https://editor.p5js.org/frederikhc09/sketches/PIMiy7vbD
+vi har lært om Symmetrisk vs. Asymmetrisk kryptering som er to andre måder at kryptere på som vi lærte om for klassen
+
+vi har lært om RSA ciper som står for (Rivest–Shamir–Adleman) som hanlder omkring hvordan den nutidige cipher virker hvor samfundet har ens offenlige key og selv hatr en privat key til at sende beskeder uden at folk har adgang til dem
+
+opsumering: Vi lærer om kryptering og dets formål, om Symmetrisk vs. Asymmetrisk kryptering og RSA ciper
 
 ## 3D design og print
-vi ved hvordan vi laver 3Dmodeller i fusion 360
+vi ved hvordan vi laver 3Dmodeller i fusion 360 hvor
 
 vi ved hvorden bambu studio virker og kan bruge det til at printe 3D modeller
 
