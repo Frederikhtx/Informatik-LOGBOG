@@ -31,7 +31,10 @@ vi har lært at omkring og at bruge lister. som vi brugte i denne code hvor vi l
 
 vi har lavet fysiksimuleringskode i p5 hvor vi fik en bold til at reager som den ville i virkeligheden med tyndekraft
 
-opsamling: vi har lær omkrign og brug af variabler, lært omkring løkker eller gentagelser i kode, lært om kontrolstrukturer (if/else) og lært at omkring og at bruge lister
+vi har lavet floowthart som er en måde at vise code på en enkel og overskugelig måde. her er et floowthart som er lavet i forbindelse med en teknologi opgave som er til et stolsæde som vi skulle bruge code til
+<img width="504" height="600" alt="image" src="https://github.com/user-attachments/assets/180772af-ba55-4ecd-b00c-0e88eddc6490" />
+
+opsamling: vi har lær omkrign og brug af variabler, lært omkring løkker eller gentagelser i kode, lært om kontrolstrukturer (if/else), lært at omkring og at bruge lister of floowthart
 
 ## kryptografi
 Vi lærer om kryptering og dets formål, anvendelse, og eksempler.
@@ -44,11 +47,16 @@ vi har lært om RSA ciper som står for (Rivest–Shamir–Adleman) som hanlder 
 opsumering: Vi lærer om kryptering og dets formål, om Symmetrisk vs. Asymmetrisk kryptering og RSA ciper
 
 ## 3D design og print
-vi ved hvordan vi laver 3Dmodeller i fusion 360 hvor
+vi ved hvordan vi laver 3Dmodeller i fusion 360 hvor vi lave en helt masse random ting for at får en føgelse for 3D modelering og hvordan værktøjet virker 
 
-vi ved hvorden bambu studio virker og kan bruge det til at printe 3D modeller
+vi ved hvordan bambu studio virker og kan bruge det til at printe 3D modeller
+her er en model af et slotstårn som er lavet i fusion 360 og indpoteret i bambu lab
+<img width="1777" height="914" alt="image" src="https://github.com/user-attachments/assets/3bbdea0c-34f4-43e1-b6ae-52c34e0c0152" />
 
-vi har printet 3D modeller
+
+vi har printet vores 3D modeller jeg har printet figuren af slotstårnet som ses i billedet ovenover
+
+opsumering: laver 3Dmodeller i fusion 360, hvordan bambu studio virker og printet 3d model
 
 
 
