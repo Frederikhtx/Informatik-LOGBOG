@@ -94,4 +94,5 @@ er bleven indtrudusert til arduino hvordan det fungere og blev indtrudusert til 
 
 ### 06/03/2026 Fredag arduino
 arbejderde med Mads og Zaid på arduino projekt vi laver koder en arduino til at kunne måle mængden af co2 i et lokale hvis det er for højt larmer den så der kan blive udluftet. Mads og Zaid laver code mens jeg laver 3D model af den box i Fusion som arduionen skal være i
+
 3D box ligger på mit skrivebord under (co2 måler rigtig box og co2 måler box)
