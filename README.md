@@ -81,17 +81,17 @@ laver 3Dmodeller i fusion 360, hvordan bambu studio virker og printet 3d model
 
 
 
-## 16/02/2026 mandag Github
+### 16/02/2026 mandag Github
 lære hvordan vi laver og bruger logbog via github
 
-## 23/02/2026 mandag Github
+### 23/02/2026 mandag Github
 lære hvordan man operrere github og fik lavet vores logbøger flotte om med det rette mængde matriale
 
-### Arduino
+## Arduino
 
-## 02/03/2026 Mandeg arduino
+### 02/03/2026 Mandeg arduino
 er bleven indtrudusert til arduino hvordan det fungere og blev indtrudusert til informatik projekt med arduino 
 
-## 06/03/2026 Fredag arduino
+### 06/03/2026 Fredag arduino
 arbejderde med Mads og Zaid på arduino projekt vi laver koder en arduino til at kunne måle mængden af co2 i et lokale hvis det er for højt larmer den så der kan blive udluftet. Mads og Zaid laver code mens jeg laver 3D model af den box i Fusion som arduionen skal være i
 3D box ligger på mit skrivebord under (co2 måler rigtig box og co2 måler box)
