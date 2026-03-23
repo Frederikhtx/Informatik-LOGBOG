@@ -96,3 +96,12 @@ er bleven indtrudusert til arduino hvordan det fungere og blev indtrudusert til 
 arbejderde med Mads og Zaid på arduino projekt vi laver koder en arduino til at kunne måle mængden af co2 i et lokale hvis det er for højt larmer den så der kan blive udluftet. Mads og Zaid laver code mens jeg laver 3D model af den box i Fusion som arduionen skal være i
 
 3D box ligger på mit skrivebord under (co2 måler rigtig box og co2 måler box)
+
+### 12/03/2026 Torsdag
+arbejdede med Zaid om Mads med at lave en co2 måler de to codede mens jeg lavede og printede 3D box
+
+### 19/03/2026 Torsdag
+arbejdede med Zaid om Mads med at lave en co2 måler jeg lavede en 3D box mere da den tideligere ikke havde de rigtige dimensioner
+
+### 23/03/2026 Mandag
+arbejdede med Zaid om Mads med at lave en co2 måler jeg lavede endnu engang 3D box da den tiderliger stadig ikke virker venter dog med at printe denne så vi er sikre på at vi ikke skal lave om på den
