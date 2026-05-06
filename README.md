@@ -112,6 +112,7 @@ arbejdede med Zaid om Mads med at lave en co2 måler jeg lavede endnu engang 3D 
 
 ### 28/04/2026 tirsdag droner
 vi er bleven introduceret til vores nye emne omkring droner. vi har fået forklarede hvordan tello dronerne virker vi har yderliger i timerne lavet en problem formulering til vores projekt 
+Problemformulering: Hvordan kan vi lave spændende og unikke kontroller til en drone? Vi vil prøve at lave en bevægelseskontrollerede kontroller til en drone, altså hvor dronen styres af bestemte bevægelser og tegn fra et facecam. I projektet har vi en trello drone til rådighed.
 
 ### 30/04/2026 torsdag drone
 
