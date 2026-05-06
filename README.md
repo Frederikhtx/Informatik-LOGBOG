@@ -105,3 +105,14 @@ arbejdede med Zaid om Mads med at lave en co2 måler jeg lavede en 3D box mere d
 
 ### 23/03/2026 Mandag
 arbejdede med Zaid om Mads med at lave en co2 måler jeg lavede endnu engang 3D box da den tiderliger stadig ikke virker venter dog med at printe denne så vi er sikre på at vi ikke skal lave om på den
+
+### 08/04/2026 onsdag
+
+### 10/04/2026 fredag
+
+### 28/04/2026 tirsdag droner
+vi er bleven introduceret til vores nye emne omkring droner. vi har fået forklarede hvordan tello dronerne virker vi har yderliger i timerne lavet en problem formulering til vores projekt 
+
+### 30/04/2026 torsdag drone
+
+### 04/05/2026 Mandag drone
