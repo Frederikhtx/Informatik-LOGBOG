@@ -110,10 +110,14 @@ arbejdede med Zaid om Mads med at lave en co2 måler jeg lavede endnu engang 3D 
 
 ### 10/04/2026 fredag
 
+## droner
+
 ### 28/04/2026 tirsdag droner
 vi er bleven introduceret til vores nye emne omkring droner. vi har fået forklarede hvordan tello dronerne virker vi har yderliger i timerne lavet en problem formulering til vores projekt 
 Problemformulering: Hvordan kan vi lave spændende og unikke kontroller til en drone? Vi vil prøve at lave en bevægelseskontrollerede kontroller til en drone, altså hvor dronen styres af bestemte bevægelser og tegn fra et facecam. I projektet har vi en trello drone til rådighed.
 
 ### 30/04/2026 torsdag drone
+i løbede af timerne i dag har vi primært kodet et program som forhåbentlig har kunne gøre at vi kan styre vores drone med håndsinaler
+link til vores kode jeg har ikke kunne eksportere en python kode hertil så jeg har måtte indsætte koden i p5.js hvi det ser underligt ud: [kode til drone] (<iframe src="https://editor.p5js.org/Frederikhtx/full/Uh6wOZkvW"></iframe>)
 
 ### 04/05/2026 Mandag drone
