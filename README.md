@@ -116,7 +116,7 @@ endelige iteration over co2 måler box:
 
 
 ### 10/04/2026 fredag
-
+folk har præsentert deres ardoino forløb vi fik ikke præsentert men var stadig godt
 
 ## droner
 
