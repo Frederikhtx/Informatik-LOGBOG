@@ -106,6 +106,14 @@ arbejdede med Zaid om Mads med at lave en co2 måler jeg lavede en 3D box mere d
 ### 23/03/2026 Mandag
 arbejdede med Zaid om Mads med at lave en co2 måler jeg lavede endnu engang 3D box da den tiderliger stadig ikke virker venter dog med at printe denne så vi er sikre på at vi ikke skal lave om på den
 <details>
+<summary>kode til co2 måler</summary>
+<br>
+<img width="874" height="286" alt="image" src="https://github.com/user-attachments/assets/cc5d388b-8590-4eb8-baee-a9a2d1de6a4c" />
+<img width="961" height="322" alt="image" src="https://github.com/user-attachments/assets/26757d64-28fa-4f47-ab7a-4df6e49a5d83" />
+<img width="511" height="601" alt="image" src="https://github.com/user-attachments/assets/fa690e77-a328-49ff-b3a3-e53411d45a84" />
+<img width="273" height="195" alt="image" src="https://github.com/user-attachments/assets/044f1669-2a25-4209-a4dd-6a2131d056ae" />
+
+</details>
 
 ### 08/04/2026 onsdag
 i dag har min gruppe lavet færtig på vores kode og testet den hvor vi har lavet et diagrem over vores målinger se billide under jeg har ydeliger også fået printet den endelige iteration se billde under
