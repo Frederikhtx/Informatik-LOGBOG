@@ -105,6 +105,7 @@ arbejdede med Zaid om Mads med at lave en co2 måler jeg lavede en 3D box mere d
 
 ### 23/03/2026 Mandag
 arbejdede med Zaid om Mads med at lave en co2 måler jeg lavede endnu engang 3D box da den tiderliger stadig ikke virker venter dog med at printe denne så vi er sikre på at vi ikke skal lave om på den
+<details>
 
 ### 08/04/2026 onsdag
 i dag har min gruppe lavet færtig på vores kode og testet den hvor vi har lavet et diagrem over vores målinger se billide under jeg har ydeliger også fået printet den endelige iteration se billde under
