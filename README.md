@@ -121,3 +121,12 @@ i løbede af timerne i dag har vi primært kodet et program som forhåbentlig ha
 link til vores kode jeg har ikke kunne eksportere en python kode hertil så jeg har måtte indsætte koden i p5.js hvi det ser underligt ud: [kode til drone](<iframe src="https://editor.p5js.org/Frederikhtx/full/Uh6wOZkvW"></iframe>)
 
 ### 04/05/2026 Mandag drone
+i dag var jeg desvære til læge så mine makre har lavet vidre på projektet ved først og fremmest at arbejde vidre på vores kode og lavet flowthart skitser og så lavede jeg et box diagram der hjemme
+flowthart:
+<img width="412" height="819" alt="image" src="https://github.com/user-attachments/assets/2a7ad6d3-7ae3-4318-a200-d76b89fe6839" />
+skitse:
+<img width="1560" height="435" alt="image" src="https://github.com/user-attachments/assets/f21e3807-5c59-45b7-a30e-9518c6ed0ab7" />
+box diagram:
+<img width="1216" height="875" alt="image" src="https://github.com/user-attachments/assets/c116e4d0-7625-4ec8-9261-52c53769f781" />
+
+
