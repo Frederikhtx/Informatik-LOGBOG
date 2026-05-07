@@ -118,6 +118,6 @@ Problemformulering: Hvordan kan vi lave spændende og unikke kontroller til en d
 
 ### 30/04/2026 torsdag drone
 i løbede af timerne i dag har vi primært kodet et program som forhåbentlig har kunne gøre at vi kan styre vores drone med håndsinaler
-link til vores kode jeg har ikke kunne eksportere en python kode hertil så jeg har måtte indsætte koden i p5.js hvi det ser underligt ud: [kode til drone] ("https://editor.p5js.org/Frederikhtx/full/Uh6wOZkvW"></iframe>)
+link til vores kode jeg har ikke kunne eksportere en python kode hertil så jeg har måtte indsætte koden i p5.js hvi det ser underligt ud: [kode til drone](<iframe src="https://editor.p5js.org/Frederikhtx/full/Uh6wOZkvW"></iframe>)
 
 ### 04/05/2026 Mandag drone
