@@ -142,7 +142,7 @@ i dag var jeg desvære til læge så mine makre har lavet vidre på projektet ve
 
 <details>
 
-<summary>How do I dropdown?</summary>
+<summary>flowthart, skitser og box diagram</summary>
 <br>
 This is how you dropdown.
 flowthart:
