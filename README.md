@@ -107,8 +107,16 @@ arbejdede med Zaid om Mads med at lave en co2 måler jeg lavede en 3D box mere d
 arbejdede med Zaid om Mads med at lave en co2 måler jeg lavede endnu engang 3D box da den tiderliger stadig ikke virker venter dog med at printe denne så vi er sikre på at vi ikke skal lave om på den
 
 ### 08/04/2026 onsdag
+i dag har min gruppe lavet færtig på vores kode og testet den hvor vi har lavet et diagrem over vores målinger se billide under jeg har ydeliger også fået printet den endelige iteration se billde under
+
+diagram over målinger:
+<img width="1257" height="684" alt="image" src="https://github.com/user-attachments/assets/4229f5c5-d338-4cc6-b40b-42d316fb9eb4" />
+endelige iteration over co2 måler box:
+<img width="1249" height="494" alt="image" src="https://github.com/user-attachments/assets/dd082b87-01ca-429c-9dc0-0ec1a6b565e3" />
+
 
 ### 10/04/2026 fredag
+
 
 ## droner
 
@@ -122,6 +130,7 @@ link til vores kode jeg har ikke kunne eksportere en python kode hertil så jeg 
 
 ### 04/05/2026 Mandag drone
 i dag var jeg desvære til læge så mine makre har lavet vidre på projektet ved først og fremmest at arbejde vidre på vores kode og lavet flowthart skitser og så lavede jeg et box diagram der hjemme
+
 flowthart:
 <img width="412" height="819" alt="image" src="https://github.com/user-attachments/assets/2a7ad6d3-7ae3-4318-a200-d76b89fe6839" />
 skitse:
