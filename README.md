@@ -153,3 +153,5 @@ box diagram:
 <img width="1216" height="875" alt="image" src="https://github.com/user-attachments/assets/c116e4d0-7625-4ec8-9261-52c53769f781" />
 </details>
 
+### 08/05/2026
+i dag 
