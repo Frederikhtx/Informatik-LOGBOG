@@ -154,4 +154,4 @@ box diagram:
 </details>
 
 ### 08/05/2026
-i dag 
+i dag har vi lavet de sidste ændringer i vores kode samt at vi lavede en bruger test hvor vi fik to tilfældige personer til at teste vores kode for at se om de var lige til at forstå
